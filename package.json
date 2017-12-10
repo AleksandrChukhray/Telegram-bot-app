@@ -1,0 +1,27 @@
+{
+  "name": "telegram-bot-app",
+  "version": "0.0.1",
+  "description": "My first telegram bot. Should be very interesting project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksandrChukhray/Telegram-bot-app.git"
+  },
+  "keywords": [
+    "Telegram",
+    "bot",
+    "project"
+  ],
+  "author": "Aleksandr Chukhrai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AleksandrChukhray/Telegram-bot-app/issues"
+  },
+  "homepage": "https://github.com/AleksandrChukhray/Telegram-bot-app#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.29.0"
+  }
+}
